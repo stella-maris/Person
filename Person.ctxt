@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Person
+comment1.params=_firstName\ _lastName\ _age\ _height
+comment1.target=Person(java.lang.String,\ java.lang.String,\ int,\ double)
+comment1.text=\r\n\ Default\ constructor\ to\ setup\ person\ object.\r\n\ \r\n\ @param\ _firstName\ The\ first\ name\ of\ the\ person.\r\n\ @param\ _lastName\ The\ last\ name\ of\ the\ person.\r\n\ @param\ _age\ The\ age\ of\ the\ person\ in\ years.\r\n\ @param\ _height\ The\ height\ of\ person\ in\ centimeters.\r\n
+comment2.params=
+comment2.target=boolean\ isOld()
+comment2.text=\r\n\ Gets\ you\ a\ cheeky\ opinion\ of\ what\ is\ considered\ old\ in\ English\ terms.\r\n\ \r\n\ @return\ The\ English\ representation\ of\ the\ person's\ age.\r\n
+comment3.params=
+comment3.target=boolean\ isTall()
+comment3.text=\r\n\ Gets\ you\ the\ height\ of\ person\ in\ English\ terms.\r\n\ \r\n\ @return\ The\ English\ fact\ of\ what\ is\ considered\ tall.\r\n
+numComments=4
